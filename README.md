@@ -2,7 +2,7 @@
 
 FLOWIC is a lightweight Windows clipboard image processing tool designed to reduce repetitive image operations in real-world engineering workflows.
 
-The project solves frequent, small, but high-cost inefficiencies encountered during daily design and documentation tasks. It remains extremely compact (approx. 185KB) while delivering professional-grade image clarity.
+The project solves frequent, small, but high-cost inefficiencies encountered during daily design and documentation tasks. It remains extremely compact (approx. 196KB) while delivering professional-grade image clarity.
 
 ---
 
